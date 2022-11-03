@@ -1,0 +1,8 @@
+{
+    "editor.cursorSurroundingLinesStyle": "default",
+    "editor.renderLineHighlight": "all",
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+    "workbench.iconTheme": "vs-seti"
+}
